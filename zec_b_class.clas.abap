@@ -4,6 +4,8 @@ class ZEC_B_CLASS definition
   create public .
 
 public section.
+
+  class-methods A_METHOD .
 protected section.
 private section.
 
@@ -13,6 +15,10 @@ ENDCLASS.
 
 
 CLASS ZEC_B_CLASS IMPLEMENTATION.
+
+
+  method A_METHOD.
+  endmethod.
 
 
   method B_METHOD.

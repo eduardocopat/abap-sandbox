@@ -2,43 +2,6 @@
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
-   <methods>
-    <item>
-     <CLSNAME>ZEC_B_CLASS</CLSNAME>
-     <CMPNAME>B_METHOD</CMPNAME>
-     <VERSION>1</VERSION>
-     <LANGU>E</LANGU>
-     <DESCRIPT>describe_b</DESCRIPT>
-     <ALIAS/>
-     <REDEFIN/>
-     <EXPOSURE>0</EXPOSURE>
-     <STATE>1</STATE>
-     <EDITORDER>1</EDITORDER>
-     <DISPID>0</DISPID>
-     <AUTHOR>COPAT</AUTHOR>
-     <CREATEDON>2016-11-25</CREATEDON>
-     <CHANGEDBY/>
-     <CHANGEDON>0000-00-00</CHANGEDON>
-     <MTDTYPE>0</MTDTYPE>
-     <MTDDECLTYP>0</MTDDECLTYP>
-     <MTDABSTRCT/>
-     <MTDFINAL/>
-     <REFCLSNAME/>
-     <REFINTNAME/>
-     <REFCMPNAME/>
-     <DSRNOTEOM/>
-     <MTDNEWEXC/>
-     <LOCKED/>
-     <R3RELEASE>750</R3RELEASE>
-     <BCMTDINST/>
-     <BCMTDCAT>00</BCMTDCAT>
-     <BCMTDDIA/>
-     <BCMTDCOM/>
-     <BCMTDSYN>0</BCMTDSYN>
-     <MTDREPLACE/>
-     <MTDOPTNL/>
-    </item>
-   </methods>
    <VSEOCLASS>
     <CLSNAME>ZEC_B_CLASS</CLSNAME>
     <VERSION>1</VERSION>
