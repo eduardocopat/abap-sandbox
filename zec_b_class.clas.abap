@@ -6,6 +6,7 @@ class ZEC_B_CLASS definition
 public section.
 
   class-methods A_METHOD .
+  methods C_METHOD .
 protected section.
 private section.
 
@@ -22,5 +23,9 @@ CLASS ZEC_B_CLASS IMPLEMENTATION.
 
 
   method B_METHOD.
+  endmethod.
+
+
+  method C_METHOD.
   endmethod.
 ENDCLASS.
