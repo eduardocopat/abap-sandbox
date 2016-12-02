@@ -5,6 +5,8 @@ class ZEC_D_CLASS definition
 
 public section.
 
+  data A_BB type STRING .
+
   methods A_METHOD .
 protected section.
 private section.
