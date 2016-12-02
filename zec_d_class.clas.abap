@@ -10,6 +10,7 @@ protected section.
 private section.
 
   class-methods B_METHOD .
+  methods C_METHOD .
 ENDCLASS.
 
 
@@ -23,5 +24,9 @@ CLASS ZEC_D_CLASS IMPLEMENTATION.
 
 
   method B_METHOD.
+  endmethod.
+
+
+  method C_METHOD.
   endmethod.
 ENDCLASS.

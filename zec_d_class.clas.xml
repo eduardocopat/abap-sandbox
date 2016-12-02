@@ -58,6 +58,12 @@
      <LANGU>E</LANGU>
      <DESCRIPT>describes B</DESCRIPT>
     </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZEC_D_CLASS</CLSNAME>
+     <CMPNAME>C_METHOD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>describes C</DESCRIPT>
+    </SEOCOMPOTX>
    </METHODS_DESCRIPTIONS>
   </asx:values>
  </asx:abap>
