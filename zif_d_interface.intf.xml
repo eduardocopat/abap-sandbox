@@ -23,14 +23,14 @@
     <R3RELEASE/>
     <CLSPROXY/>
    </VSEOINTERF>
-   <METHODS_DESCRIPTIONS>
+   <DESCRIPTIONS>
     <SEOCOMPOTX>
      <CLSNAME>ZIF_D_INTERFACE</CLSNAME>
      <CMPNAME>D_METHOD</CMPNAME>
      <LANGU>E</LANGU>
      <DESCRIPT>d description</DESCRIPT>
     </SEOCOMPOTX>
-   </METHODS_DESCRIPTIONS>
+   </DESCRIPTIONS>
   </asx:values>
  </asx:abap>
 </abapGit>
