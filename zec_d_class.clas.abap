@@ -22,11 +22,13 @@ CLASS ZEC_D_CLASS IMPLEMENTATION.
 
 
   method A_METHOD.
-    WRITE 'A'.
+    b_method( ).
+    DATA(foo) = sy-subrc.
   endmethod.
 
 
   method B_METHOD.
+      select * from tadir into table @data(tests) where PGMID = 'cpt'.
   endmethod.
 
 
