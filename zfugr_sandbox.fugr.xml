@@ -64,6 +64,34 @@
      </DOCUMENTATION>
      <EXCEPTION_CLASSES/>
     </item>
+    <item>
+     <FUNCNAME>ZFM_SANDBOX_WITH_EXCEPT_CLAS</FUNCNAME>
+     <INCLUDE>LZFUGR_SANDBOXU03</INCLUDE>
+     <GLOBAL_FLAG/>
+     <REMOTE_CALL/>
+     <UPDATE_TASK/>
+     <SHORT_TEXT>asd</SHORT_TEXT>
+     <REMOTE_BASXML/>
+     <IMPORT/>
+     <CHANGING/>
+     <EXPORT/>
+     <TABLES/>
+     <EXCEPTION>
+      <RSEXC>
+       <EXCEPTION>ZCX_EXCPT</EXCEPTION>
+       <IS_RESUMABLE/>
+      </RSEXC>
+     </EXCEPTION>
+     <DOCUMENTATION>
+      <RSFDO>
+       <PARAMETER>ZCX_EXCPT</PARAMETER>
+       <KIND>X</KIND>
+       <STEXT/>
+       <INDEX> 001</INDEX>
+      </RSFDO>
+     </DOCUMENTATION>
+     <EXCEPTION_CLASSES>X</EXCEPTION_CLASSES>
+    </item>
    </FUNCTIONS>
    <DYNPROS/>
    <CUA>
