@@ -34,6 +34,7 @@
        <INDEX> 001</INDEX>
       </RSFDO>
      </DOCUMENTATION>
+     <EXCEPTION_CLASSES>X</EXCEPTION_CLASSES>
     </item>
    </FUNCTIONS>
    <DYNPROS/>
