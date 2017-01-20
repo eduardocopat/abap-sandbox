@@ -22,7 +22,7 @@ CLASS ZEC_D_CLASS IMPLEMENTATION.
 
 
   method A_METHOD.
-    b_method( ). BUG
+    b_method( ).
     DATA(foo) = sy-subrc.
   endmethod.
 
