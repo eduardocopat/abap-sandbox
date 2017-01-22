@@ -11,19 +11,10 @@
     <item>
      <FUNCNAME>ZFM_SANDBOX</FUNCNAME>
      <INCLUDE>LZFUGR_SANDBOXU01</INCLUDE>
-     <GLOBAL_FLAG/>
-     <REMOTE_CALL/>
-     <UPDATE_TASK/>
      <SHORT_TEXT>sandbox</SHORT_TEXT>
-     <REMOTE_BASXML/>
-     <IMPORT/>
-     <CHANGING/>
-     <EXPORT/>
-     <TABLES/>
      <EXCEPTION>
       <RSEXC>
        <EXCEPTION>ZCX_EXCPT</EXCEPTION>
-       <IS_RESUMABLE/>
       </RSEXC>
      </EXCEPTION>
      <DOCUMENTATION>
@@ -39,54 +30,33 @@
     <item>
      <FUNCNAME>ZFM_SANDBOX_NO_EXCEPT_CLAS</FUNCNAME>
      <INCLUDE>LZFUGR_SANDBOXU02</INCLUDE>
-     <GLOBAL_FLAG/>
-     <REMOTE_CALL/>
-     <UPDATE_TASK/>
      <SHORT_TEXT>asd</SHORT_TEXT>
-     <REMOTE_BASXML/>
-     <IMPORT/>
-     <CHANGING/>
-     <EXPORT/>
-     <TABLES/>
      <EXCEPTION>
       <RSEXC>
        <EXCEPTION>TERMINAL_ERROR</EXCEPTION>
-       <IS_RESUMABLE/>
       </RSEXC>
      </EXCEPTION>
      <DOCUMENTATION>
       <RSFDO>
        <PARAMETER>TERMINAL_ERROR</PARAMETER>
        <KIND>X</KIND>
-       <STEXT/>
        <INDEX> 001</INDEX>
       </RSFDO>
      </DOCUMENTATION>
-     <EXCEPTION_CLASSES/>
     </item>
     <item>
      <FUNCNAME>ZFM_SANDBOX_WITH_EXCEPT_CLAS</FUNCNAME>
      <INCLUDE>LZFUGR_SANDBOXU03</INCLUDE>
-     <GLOBAL_FLAG/>
-     <REMOTE_CALL/>
-     <UPDATE_TASK/>
      <SHORT_TEXT>asd</SHORT_TEXT>
-     <REMOTE_BASXML/>
-     <IMPORT/>
-     <CHANGING/>
-     <EXPORT/>
-     <TABLES/>
      <EXCEPTION>
       <RSEXC>
        <EXCEPTION>ZCX_EXCPT</EXCEPTION>
-       <IS_RESUMABLE/>
       </RSEXC>
      </EXCEPTION>
      <DOCUMENTATION>
       <RSFDO>
        <PARAMETER>ZCX_EXCPT</PARAMETER>
        <KIND>X</KIND>
-       <STEXT/>
        <INDEX> 001</INDEX>
       </RSFDO>
      </DOCUMENTATION>
@@ -94,27 +64,7 @@
     </item>
    </FUNCTIONS>
    <DYNPROS/>
-   <CUA>
-    <ADM>
-     <ACTCODE/>
-     <MENCODE/>
-     <PFKCODE/>
-     <DEFAULTACT/>
-     <DEFAULTPFK/>
-     <MOD_LANGU/>
-    </ADM>
-    <STA/>
-    <FUN/>
-    <MEN/>
-    <MTX/>
-    <ACT/>
-    <BUT/>
-    <PFK/>
-    <SET/>
-    <DOC/>
-    <TIT/>
-    <BIV/>
-   </CUA>
+   <CUA/>
   </asx:values>
  </asx:abap>
 </abapGit>
