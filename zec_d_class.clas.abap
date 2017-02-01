@@ -1,19 +1,19 @@
-class ZEC_D_CLASS definition
-  public
-  final
-  create public .
+CLASS zec_d_class DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
 
-public section.
+  PUBLIC SECTION.
 
-  data A_BB type STRING .
-  data B_BB type STRING .
+    DATA a_bb TYPE string .
+    DATA b_bb TYPE string .
 
-  methods A_METHOD .
-protected section.
-private section.
+    METHODS a_method .
+  PROTECTED SECTION.
+  PRIVATE SECTION.
 
-  class-methods B_METHOD .
-  methods C_METHOD .
+    CLASS-METHODS b_method .
+    METHODS c_method .
 ENDCLASS.
 
 
@@ -21,20 +21,20 @@ ENDCLASS.
 CLASS ZEC_D_CLASS IMPLEMENTATION.
 
 
-  method A_METHOD.
+  METHOD a_method.
     b_method( ).
     DATA(foo) = sy-subrc.
     foo = sy-uname.
     "more changes
     "legal
-  endmethod.
+  ENDMETHOD.
 
 
-  method B_METHOD.
-      select * from tadir into table @data(tests) where PGMID = 'cpt'.
-  endmethod.
+  METHOD b_method.
+    SELECT * FROM tadir INTO TABLE @DATA(tests) WHERE pgmid = 'cpt'.
+  ENDMETHOD.
 
 
-  method C_METHOD.
-  endmethod.
+  METHOD c_method.
+  ENDMETHOD.
 ENDCLASS.
