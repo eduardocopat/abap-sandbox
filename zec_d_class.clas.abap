@@ -26,6 +26,7 @@ CLASS ZEC_D_CLASS IMPLEMENTATION.
     DATA(foo) = sy-subrc.
     foo = sy-uname.
     "updating
+    "blabla
   ENDMETHOD.
 
 
