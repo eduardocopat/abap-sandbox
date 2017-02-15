@@ -25,8 +25,8 @@ CLASS ZEC_D_CLASS IMPLEMENTATION.
     b_method( ).
     DATA(foo) = sy-subrc.
     foo = sy-uname.
-    "updating
-    "blabla
+    "more changes
+    "legal
   ENDMETHOD.
 
 
