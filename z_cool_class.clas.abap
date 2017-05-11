@@ -4,6 +4,7 @@ class Z_COOL_CLASS definition
   create public .
 
 public section.
+methods: oi.
 protected section.
 private section.
 ENDCLASS.
@@ -11,4 +12,6 @@ ENDCLASS.
 
 
 CLASS Z_COOL_CLASS IMPLEMENTATION.
+method oi.
+endmethod.
 ENDCLASS.
