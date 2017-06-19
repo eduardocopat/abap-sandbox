@@ -10,7 +10,6 @@
     <OUTPUTLEN>000011</OUTPUTLEN>
     <DDTEXT>Domain</DDTEXT>
    </DD01V>
-   <DD07V_TAB/>
   </asx:values>
  </asx:abap>
 </abapGit>

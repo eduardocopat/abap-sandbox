@@ -7,7 +7,7 @@ CLASS zec_d_class DEFINITION
 
     DATA a_bb TYPE string .
     DATA b_bb TYPE string .
-    
+
     METHODS a_first_method.
     METHODS a_method .
   PROTECTED SECTION.
@@ -20,8 +20,8 @@ ENDCLASS.
 
 
 CLASS zec_d_class IMPLEMENTATION.
-   
-  
+
+
   METHOD a_method.
     b_method( ).
     DATA(foo) = sy-subrc.
@@ -29,7 +29,7 @@ CLASS zec_d_class IMPLEMENTATION.
     "more changes
     "legal
   ENDMETHOD.
-  
+
   METHOD a_first_method.
     WRITE 'oi'.
   ENDMETHOD.
