@@ -22,6 +22,9 @@ ENDCLASS.
 CLASS zec_d_class IMPLEMENTATION.
 
 
+  METHOD c_method.
+  ENDMETHOD.
+  
   METHOD a_method.
     b_method( ).
     DATA(foo) = sy-subrc.
@@ -39,6 +42,4 @@ CLASS zec_d_class IMPLEMENTATION.
   ENDMETHOD.
 
 
-  METHOD c_method.
-  ENDMETHOD.
 ENDCLASS.
