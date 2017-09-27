@@ -38,6 +38,7 @@ CLASS zec_d_class IMPLEMENTATION.
   ENDMETHOD.
 
   METHOD b_method.
+    "blablalb
     SELECT * FROM tadir INTO TABLE @DATA(tests) WHERE pgmid = 'cpt'.
   ENDMETHOD.
 
