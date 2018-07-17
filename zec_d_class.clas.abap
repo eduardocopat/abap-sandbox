@@ -19,11 +19,13 @@ ENDCLASS.
 
 
 
-CLASS zec_d_class IMPLEMENTATION.
+CLASS ZEC_D_CLASS IMPLEMENTATION.
 
 
-  METHOD c_method.
+  METHOD a_first_method.
+    WRITE 'hi'.
   ENDMETHOD.
+
 
   METHOD a_method.
     b_method( ).
@@ -33,9 +35,6 @@ CLASS zec_d_class IMPLEMENTATION.
     "legal
   ENDMETHOD.
 
-  METHOD a_first_method.
-    WRITE 'oi'.
-  ENDMETHOD.
 
   METHOD b_method.
     "blablalb
@@ -43,4 +42,6 @@ CLASS zec_d_class IMPLEMENTATION.
   ENDMETHOD.
 
 
+  METHOD c_method.
+  ENDMETHOD.
 ENDCLASS.
