@@ -32,7 +32,6 @@ CLASS ZEC_D_CLASS IMPLEMENTATION.
     DATA(foo) = sy-subrc.
     foo = sy-uname.
     "more changes
-    "legal
   ENDMETHOD.
 
 
