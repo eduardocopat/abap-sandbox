@@ -23,7 +23,7 @@ CLASS ZEC_D_CLASS IMPLEMENTATION.
 
 
   METHOD a_first_method.
-    WRITE 'hello'.
+    WRITE 'hi'.
   ENDMETHOD.
 
 
@@ -32,7 +32,6 @@ CLASS ZEC_D_CLASS IMPLEMENTATION.
     DATA(foo) = sy-subrc.
     foo = sy-uname.
     "more changes
-    "legal
   ENDMETHOD.
 
 
