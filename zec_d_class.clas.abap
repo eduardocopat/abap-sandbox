@@ -23,7 +23,7 @@ CLASS ZEC_D_CLASS IMPLEMENTATION.
 
 
   METHOD a_first_method.
-    WRITE 'hello'.
+    WRITE 'hi'.
   ENDMETHOD.
 
 
