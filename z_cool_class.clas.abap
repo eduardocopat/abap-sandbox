@@ -1,7 +1,7 @@
 class Z_COOL_CLASS definition
   public
   final
-  create public .
+  create private .
 
 public section.
 protected section.
