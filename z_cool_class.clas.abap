@@ -1,5 +1,6 @@
 class Z_COOL_CLASS definition
   public
+  abstract
   final
   create private .
 
