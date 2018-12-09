@@ -1,7 +1,7 @@
 class ZCL_F_CLASS definition
   public
   final
-  create public .
+  create protected .
 
 public section.
 protected section.
