@@ -16,5 +16,6 @@ CLASS ZEC_REAL_REQUEST IMPLEMENTATION.
 
 
   method QUX.
+    "My merged stuff
   endmethod.
 ENDCLASS.
