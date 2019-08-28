@@ -5,8 +5,8 @@ class Z_COOL_CLASS definition
   create private .
 
 public section.
+
   methods: my_new_method.
-  
 protected section.
 private section.
 ENDCLASS.
@@ -14,6 +14,8 @@ ENDCLASS.
 
 
 CLASS Z_COOL_CLASS IMPLEMENTATION.
+
+
 method my_new_method.
 endmethod.
 ENDCLASS.
