@@ -6,7 +6,7 @@ class Z_COOL_CLASS definition
 
 public section.
 
-  methods: dsadas.
+  methods: bar.
 protected section.
 private section.
 ENDCLASS.
@@ -16,6 +16,6 @@ ENDCLASS.
 CLASS Z_COOL_CLASS IMPLEMENTATION.
 
 
-method dsadas.
+method bar.
 endmethod.
 ENDCLASS.
