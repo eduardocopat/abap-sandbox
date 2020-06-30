@@ -24,7 +24,6 @@ CLASS ZEC_G_CLASS IMPLEMENTATION.
 
   METHOD a_first_method.
     WRITE 'Theo second pull'.
-    WRITE 'changes'.
   ENDMETHOD.
 
 
