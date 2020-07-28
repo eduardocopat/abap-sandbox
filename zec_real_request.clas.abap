@@ -19,5 +19,5 @@ CLASS ZEC_REAL_REQUEST IMPLEMENTATION.
     "My merged stuff
   endmethod.
 
-  
+
 ENDCLASS.
