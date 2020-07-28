@@ -33,6 +33,8 @@ CLASS ZEC_U_CLASS IMPLEMENTATION.
     DATA(foo) = sy-subrc.
     foo = sy-uname.
     "more changes
+
+    
   ENDMETHOD.
 
 
