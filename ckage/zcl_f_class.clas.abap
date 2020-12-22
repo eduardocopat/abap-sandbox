@@ -12,6 +12,9 @@ ENDCLASS.
 
 
 CLASS ZCL_F_CLASS IMPLEMENTATION.
+
+
   method my_stuff.
+    write 'commit 2'.
   endmethod.
 ENDCLASS.
