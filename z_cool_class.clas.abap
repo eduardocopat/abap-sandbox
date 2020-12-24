@@ -17,7 +17,7 @@ CLASS Z_COOL_CLASS IMPLEMENTATION.
 
 
 method foo.
-"hello
+"hello change 32 13 12
 
 
 endmethod.
